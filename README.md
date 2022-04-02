@@ -47,11 +47,11 @@ Front and back end program utilization http://localhost:5000 Interface and use t
 * `vue/App.vue` is the front-end entry program.
 * `vue/views` contains the program files of the front end.
 ## Demonstration diagram
-![avatar](src/assets/images/login.png)
-![avatar](src/assets/images/realtime1.png)
-![avatar](src/assets/images/realtime2.png)
-![avatar](src/assets/images/transcat.png)
-![avatar](src/assets/images/history.png)
-![avatar](src/assets/images/account.png)
+![avatar](vue/src/assets/images/login.png)
+![avatar](vue/src/assets/images/realtime1.png)
+![avatar](vue/src/assets/images/realtime2.png)
+![avatar](vue/src/assets/images/transcat.png)
+![avatar](vue/src/assets/images/history.png)
+![avatar](vue/src/assets/images/account.png)
 ## Authors
 This project is completed by Peng Wang, Zhongyu Liu and Yu Shang.
